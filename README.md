@@ -1,9 +1,9 @@
-# 📚 Projetos de Deep Learning - IA353
+#  Projetos de Deep Learning - IA353
 
 ## 📋 Descrição Geral
 Este repositório contém projetos desenvolvidos na disciplina **IA353 - Redes Neurais** (pós-graduação FEEC/Unicamp), sob orientação do professor **Fernando José Von Zuben**. Os projetos abordam diversas técnicas de aprendizado profundo, aplicadas a problemas clássicos e modernos, como o problema do caixeiro viajante, predição de séries temporais, geração de imagens e aprendizado por reforço.
 
-## 🚀 Estrutura do Repositório
+##  Estrutura do Repositório
 - 📂 `notebooks`: Notebooks Jupyter com os códigos de implementação.
 - 📂 `data`: Arquivos de dados utilizados nos projetos.
 - 📂 `images`: Gráficos e resultados gerados pelos notebooks.
@@ -11,7 +11,7 @@ Este repositório contém projetos desenvolvidos na disciplina **IA353 - Redes N
 
 ---
 
-## 📝 Projetos
+##  Projetos
 
 ### **PC06 - Redes Neurais de Hopfield (TSP)**
 - Objetivo: Resolver o problema do caixeiro viajante (TSP) utilizando redes neurais de Hopfield.
@@ -76,12 +76,12 @@ Este repositório contém projetos desenvolvidos na disciplina **IA353 - Redes N
 
 ---
 
-## 📊 Resultados
+##  Resultados
 Exemplos de resultados gerados nos notebooks:
 - Gráficos de evolução de perdas e acurácias para GANs e outras redes.
 - Visualizações de manifolds em autoencoders.
 
 ---
 
-## 👥 Participação
+##  Participação
 Este projeto foi desenvolvido em parceria com **Beatriz Akiria de Assis Quaresma.**.
